@@ -1,0 +1,545 @@
+# Translation of Themes - Donovan in Chinese (China)
+# This file is distributed under the same license as the Themes - Donovan package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-02 05:26:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Donovan\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Donovan is a flexible, yet easy-to-use blogging theme with a clean and modern design. It features an elegant mobile-first design, three different blog layouts and extensive post settings. Donovan is perfect for your personal blog or for any content-focused website."
+msgstr "Donovan 是一个灵活且易上手的博客主题，设计简洁而现代。其具有优雅的移动优先设计、三种不同的博客布局以及高度可定制的文章设置。Donovan 是您的个人博客或任何以内容为重点的网站的完美选择。"
+
+#: inc/gutenberg.php:37
+msgctxt "block color"
+msgid "Primary"
+msgstr "主要区块颜色"
+
+#: inc/gutenberg.php:42
+msgctxt "block color"
+msgid "Secondary"
+msgstr "次要区块颜色"
+
+#: inc/gutenberg.php:47
+msgctxt "block color"
+msgid "Tertiary"
+msgstr "第三区块颜色"
+
+#: inc/gutenberg.php:52
+msgctxt "block color"
+msgid "Accent"
+msgstr "强调区块颜色"
+
+#: inc/gutenberg.php:57
+msgctxt "block color"
+msgid "Highlight"
+msgstr "高亮区块颜色"
+
+#: inc/gutenberg.php:62
+msgctxt "block color"
+msgid "White"
+msgstr "白色"
+
+#: inc/gutenberg.php:67
+msgctxt "block color"
+msgid "Light Gray"
+msgstr "浅灰色"
+
+#: inc/gutenberg.php:72
+msgctxt "block color"
+msgid "Gray"
+msgstr "灰色"
+
+#: inc/gutenberg.php:77
+msgctxt "block color"
+msgid "Dark Gray"
+msgstr "深灰色"
+
+#: inc/gutenberg.php:82
+msgctxt "block color"
+msgid "Black"
+msgstr "黑色"
+
+#: template-parts/header/navigation-main.php:28
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:139 inc/addons.php:180 inc/addons.php:181
+msgid "Expand child menu"
+msgstr "展开子菜单"
+
+#: functions.php:140 inc/addons.php:180 inc/addons.php:181
+msgid "Collapse child menu"
+msgstr "折叠子菜单"
+
+#: inc/customizer/sections/customizer-website.php:34
+msgid "Retina Logo"
+msgstr "视网膜 Logo"
+
+#: inc/customizer/sections/customizer-website.php:50
+msgid "Scale down logo image for retina displays"
+msgstr "为视网膜显示器打造的缩小 Logo 图片"
+
+#: inc/customizer/controls/links-control.php:46
+msgid "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=donovan/"
+msgstr "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=donovan/"
+
+#: inc/customizer/controls/links-control.php:47 inc/theme-info.php:50
+msgid "Theme Changelog"
+msgstr "主题更新日志"
+
+#: inc/theme-info.php:50
+msgid "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=donovan"
+msgstr "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=donovan"
+
+#: inc/customizer/sections/customizer-info.php:48
+msgid "Magazine Blocks"
+msgstr "杂志区块"
+
+#: inc/customizer/sections/customizer-info.php:49
+msgid "Install our free Magazine Blocks to create a magazine-styled homepage in the Editor with just a few clicks."
+msgstr "安装我们免费的杂志区块，只需点击几下就可在编辑器中创建一个杂志风格的主页。"
+
+#: inc/customizer/controls/plugin-control.php:33
+msgid "Install Plugin"
+msgstr "安装插件"
+
+#: functions.php:210
+msgid "Donovan Single Post"
+msgstr "Donovan 单篇文章"
+
+#: functions.php:211
+msgid "Donovan List Post"
+msgstr "Donovan 列表文章"
+
+#. translators: Theme Name and Link to ThemeZee.
+#: inc/template-tags.php:433
+msgid "WordPress Theme: %1$s by %2$s."
+msgstr "WordPress 主题：%1$s 由 %2$s 设计。"
+
+#: inc/customizer/sections/customizer-blog.php:146
+msgid "Read More Text"
+msgstr "阅读更多文字"
+
+#: functions.php:113
+msgctxt "widget area description"
+msgid "Sidebar will appear on posts and pages, except with the full width template."
+msgstr "边栏将出现在文章和页面上，全宽模板除外。"
+
+#: inc/theme-info.php:154
+msgctxt "If you like this theme, rate it"
+msgid "rate it"
+msgstr "给它平级"
+
+#: template-parts/content-page.php:27 template-parts/content-single.php:29
+#: template-parts/content.php:29
+msgid "Pages:"
+msgstr "页面："
+
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "搜索"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "搜索 &hellip;"
+
+#: searchform.php:12 searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr "搜索："
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "%s的搜索结果："
+
+#: inc/theme-info.php:153
+msgid "https://themezee.com/"
+msgstr "https://themezee.com/"
+
+#: inc/theme-info.php:84
+msgid "Customize Theme"
+msgstr "自定义主题"
+
+#: inc/theme-info.php:72
+msgid "View %s's documentation"
+msgstr "查阅%s的文档"
+
+#: inc/customizer/sections/customizer-info.php:19 inc/theme-info.php:20
+msgid "Theme Info"
+msgstr "主题信息"
+
+#: inc/theme-info.php:19 inc/theme-info.php:40
+msgid "Welcome to %1$s %2$s"
+msgstr "欢迎使用%1$s %2$s"
+
+#: inc/customizer/default-options.php:62
+#: inc/customizer/sections/customizer-blog.php:139
+msgid "Continue reading"
+msgstr "继续阅读"
+
+#: inc/template-tags.php:320
+msgid "% comments"
+msgstr "%条评论。"
+
+#: inc/template-tags.php:319
+msgid "One comment"
+msgstr "1条评论。"
+
+#: inc/template-tags.php:226
+msgid "View all posts by %s"
+msgstr "阅读%s发布的所有文章"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:209
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "发布于%s"
+
+#: inc/customizer/sections/customizer-post.php:117
+msgid "Display previous/next post navigation"
+msgstr "显示上一篇/下一篇文章导航"
+
+#: inc/customizer/sections/customizer-post.php:101
+msgid "Display tags"
+msgstr "显示标签"
+
+#: inc/customizer/sections/customizer-post.php:75
+msgid "Display categories"
+msgstr "显示分类"
+
+#: inc/customizer/sections/customizer-post.php:59
+msgid "Display author"
+msgstr "显示作者"
+
+#: inc/customizer/sections/customizer-post.php:43
+msgid "Display date"
+msgstr "显示日期"
+
+#: inc/customizer/sections/customizer-layout.php:61
+msgid "Right Sidebar"
+msgstr "右边栏"
+
+#: inc/customizer/sections/customizer-layout.php:60
+msgid "Left Sidebar"
+msgstr "左边栏"
+
+#: inc/customizer/sections/customizer-layout.php:54
+msgid "Sidebar Position"
+msgstr "边栏定位"
+
+#: inc/customizer/sections/customizer-layout.php:40
+msgid "Centered Layout"
+msgstr "居中布局"
+
+#: inc/customizer/sections/customizer-layout.php:39
+msgid "Wide Layout"
+msgstr "宽屏布局"
+
+#: inc/customizer/sections/customizer-layout.php:33
+msgid "Theme Layout"
+msgstr "主题布局"
+
+#: inc/customizer/sections/customizer-layout.php:19
+msgid "Layout Settings"
+msgstr "布局设置"
+
+#: inc/customizer/sections/customizer-blog.php:118
+msgid "Excerpt Length"
+msgstr "摘要长度"
+
+#: inc/customizer/sections/customizer-blog.php:104
+msgid "Full post"
+msgstr "全文"
+
+#: inc/customizer/sections/customizer-blog.php:83
+msgid "Large Posts"
+msgstr "大型布局"
+
+#: inc/customizer/sections/customizer-blog.php:77
+msgid "Blog Layout"
+msgstr "博客布局"
+
+#: inc/customizer/sections/customizer-blog.php:55
+msgid "Blog Description"
+msgstr "博客描述"
+
+#: inc/customizer/sections/customizer-blog.php:33
+msgid "Blog Title"
+msgstr "博客标题"
+
+#: inc/customizer/sections/customizer-blog.php:19
+msgid "Blog Settings"
+msgstr "博客设置"
+
+#: inc/customizer/controls/links-control.php:52 inc/theme-info.php:51
+#: inc/theme-info.php:154
+msgid "https://wordpress.org/support/theme/donovan/reviews/"
+msgstr "https://wordpress.org/support/theme/donovan/reviews/?filter=5"
+
+#: inc/customizer/controls/links-control.php:41 inc/theme-info.php:49
+#: inc/theme-info.php:65
+msgid "Theme Documentation"
+msgstr "主题文档"
+
+#: inc/customizer/controls/links-control.php:40 inc/theme-info.php:49
+#: inc/theme-info.php:71
+msgid "https://themezee.com/docs/donovan-documentation/"
+msgstr "https://themezee.com/docs/donovan-documentation/"
+
+#: inc/customizer/controls/links-control.php:35 inc/theme-info.php:48
+msgid "Theme Demo"
+msgstr "主题演示"
+
+#: inc/customizer/controls/links-control.php:29 inc/theme-info.php:47
+msgid "Theme Page"
+msgstr "主题页面"
+
+#: inc/customizer/controls/links-control.php:25 inc/theme-info.php:46
+msgid "Theme Links"
+msgstr "主题链接"
+
+#: inc/customizer/sections/customizer-website.php:66
+msgid "Display Site Title"
+msgstr "显示站点标题"
+
+#: inc/customizer/customizer.php:41
+msgid "Background"
+msgstr "背景"
+
+#: inc/customizer/customizer.php:36 inc/theme-info.php:78
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: inc/theme-info.php:135
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: inc/customizer/controls/upgrade-control.php:33 inc/theme-info.php:118
+msgid "Learn more about %s Pro"
+msgstr " 进一步了解%s Pro"
+
+#: inc/customizer/controls/upgrade-control.php:32 inc/theme-info.php:117
+msgid "https://themezee.com/addons/donovan-pro/"
+msgstr "https://themezee.com/addons/donovan-pro/"
+
+#: template-parts/header/navigation-main.php:23
+msgid "Menu"
+msgstr "菜单"
+
+#: functions.php:111
+msgid "Sidebar"
+msgstr "边栏"
+
+#: functions.php:45
+msgid "Social Icons"
+msgstr "社交图标"
+
+#: functions.php:44
+msgid "Main Navigation"
+msgstr "主导航"
+
+#: 404.php:19
+msgid "404: Page not found"
+msgstr "错误404：页面未找到。"
+
+#. Theme Name of the theme
+#. translators: Theme Name and Link to ThemeZee.
+#: inc/template-tags.php:434
+msgid "Donovan"
+msgstr "Donovan"
+
+#: 404.php:24
+msgid "Looks like nothing was found at this location. Maybe you can try a search or follow one of the links below?"
+msgstr "在此位置什么也没找到。也许您可以尝试搜索或点击下面的某个链接？"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "&ldquo;%1$s&rdquo;有1条评论。"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo;有%1$s条评论。"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "跳至内容"
+
+#: inc/back-compat.php:42 inc/back-compat.php:52 inc/back-compat.php:65
+msgid "%1$s requires at least WordPress version %2$s. You are running version %3$s. Please upgrade and try again."
+msgstr "%1$s 至少需要 WordPress %2$s 版本。您正在运行的版本是 %3$s，请升级并重试。"
+
+#: inc/customizer/controls/upgrade-control.php:25 inc/theme-info.php:111
+msgid "Pro Version Add-on"
+msgstr "专业版扩展"
+
+#: inc/customizer/controls/upgrade-control.php:28 inc/theme-info.php:114
+msgid "Purchase the %s Pro Add-on to get additional features and advanced customization options."
+msgstr "购买 %s 专业版扩展以获得额外的功能和高级定制选项。"
+
+#: inc/theme-info.php:128
+msgid "Recommended Plugins"
+msgstr "推荐插件"
+
+#: inc/theme-info.php:131
+msgid "Extend the functionality of your WordPress website with our free and easy to use plugins."
+msgstr "使用我们免费且易于使用的插件来扩展您的 WordPress 网站功能。"
+
+#: inc/customizer/sections/customizer-website.php:82
+msgid "Display Tagline"
+msgstr "显示副标题"
+
+#: inc/customizer/controls/links-control.php:53 inc/theme-info.php:51
+#: inc/theme-info.php:154
+msgid "Rate this theme"
+msgstr "为此主题评级"
+
+#: inc/customizer/sections/customizer-blog.php:84
+msgid "Post List"
+msgstr "文章列表"
+
+#: inc/customizer/sections/customizer-blog.php:85
+msgid "Post Grid"
+msgstr "文章网格"
+
+#: inc/customizer/sections/customizer-blog.php:98
+msgid "Blog Content"
+msgstr "博客内容"
+
+#: inc/customizer/sections/customizer-blog.php:105
+msgid "Post excerpt"
+msgstr "文章摘要"
+
+#: inc/customizer/sections/customizer-layout.php:41
+msgid "Boxed Layout"
+msgstr "模块布局"
+
+#: inc/customizer/sections/customizer-post.php:19
+msgid "Post Settings"
+msgstr "文章设置"
+
+#: inc/customizer/sections/customizer-post.php:27
+msgid "Post Details"
+msgstr "文章详情"
+
+#: inc/customizer/sections/customizer-post.php:85
+msgid "Single Post"
+msgstr "单篇文章"
+
+#: inc/customizer/sections/customizer-post.php:127
+msgid "Featured Images"
+msgstr "特色图片"
+
+#: inc/customizer/sections/customizer-post.php:165
+msgid "Display image on single posts"
+msgstr "在单篇文章上显示图片"
+
+#: inc/customizer/sections/customizer-post.php:143
+msgid "Display images on blog and archives"
+msgstr "在博客和归档页面显示图片"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:232
+msgctxt "post author"
+msgid "by %s"
+msgstr "作者:%s"
+
+#: inc/template-tags.php:318
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: inc/template-tags.php:361
+msgctxt "post navigation"
+msgid "Previous Post"
+msgstr "上篇文章"
+
+#: inc/template-tags.php:362
+msgctxt "post navigation"
+msgid "Next Post"
+msgstr "下篇文章"
+
+#: inc/template-tags.php:415
+msgctxt "pagination"
+msgid "Previous Posts"
+msgstr "上一组文章"
+
+#: inc/template-tags.php:416
+msgctxt "pagination"
+msgid "Next Posts"
+msgstr "下一组文章"
+
+#: inc/theme-info.php:58
+msgid "Getting started with %s"
+msgstr "开始使用%s"
+
+#: inc/theme-info.php:68
+msgid "Need help to set up and configure this theme? We got you covered! Check out the extensive theme documentation on our website."
+msgstr "需要设置和配置此主题的帮助吗？让我们来帮您吧！请查阅我们网站上海量的主题文档。"
+
+#: inc/theme-info.php:81
+msgid "%s makes use of the Customizer for all theme settings. Click on \"Customize Theme\" to open the Customizer now."
+msgstr "%s 使用定制器进行所有主题的设置。单机“自定义主题”以快速打开定制器。"
+
+#: inc/theme-info.php:104
+msgid "Get more features"
+msgstr "获取更多功能"
+
+#: inc/theme-info.php:151
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr "%1$s由%2$s自豪地带给您。如果您喜欢此主题，%3$s :)"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "未找到。"
+
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发表您的第一篇文章了吗？<a href=\"%1$s\">从这里开始</a>。"
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，未找到与您的搜索条件匹配的内容。请尝试使用其他关键字："
+
+#: template-parts/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#. Template Name of the theme
+msgid "Full-width Layout"
+msgstr "全宽布局"
+
+#. Template Name of the theme
+msgid "No Sidebar"
+msgstr "无边栏"
+
+#. Theme URI of the theme
+#: inc/customizer/controls/links-control.php:28 inc/theme-info.php:47
+#, gp-priority: low
+msgid "https://themezee.com/themes/donovan/"
+msgstr "https://themezee.com/themes/donovan/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://themezee.com"
+msgstr "https://themezee.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ThemeZee"
+msgstr "ThemeZee"

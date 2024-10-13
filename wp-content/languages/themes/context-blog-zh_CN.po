@@ -1,0 +1,1080 @@
+# Translation of Themes - Context Blog in Chinese (China)
+# This file is distributed under the same license as the Themes - Context Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-04 12:25:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Context Blog\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Context blog WordPress theme is a free, personalized, and context-oriented theme. It starts by focusing on your persona, followed by other attractions. The other six attractions show your post in a different design. Your main blog post is one of them. The convincing feature is a selection of blog posts that you can use to highlight your post in different sections. Post selection is based on different contexts, such as the number of comments, date, category. The theme is completely configurable and accessible from the customizer's preview. Additionally, the theme is fully responsive and mobile-friendly, ensuring that your content looks great on any device.  Its HTML5 structure with sections and articles ensures optimal SEO performance. In summary, the Context blog WordPress theme is a customizer based, versatile, and SEO-friendly option for bloggers looking to enhance their online presence and improve their search engine rankings. Demo is here https://contextblog.postmagthemes.com"
+msgstr "背景博客 WordPress主题是一个免费的,个性化的,并以背景为导向的主题。 它首先是专注于你的个性,然后是其他吸引力。 其他六个景点显示你的邮件在一个不同的设计。 你的主要博客文章是其中之一。 令人信服的功能是一个选择的博客帖子,你可以用来突出你的帖子在不同的部分。 文章的选择取决于不同的背景,如评论数目、日期、类别等。 主题是完全可配置和从定制器的预览可访问。 此外,主题完全响应和移动友好,确保您的内容在任何设备上都看起来很棒。  它的HTML5结构与部分和文章确保最佳的SEO性能。 总之, 背景博客 WordPress 主题是一个基于定制,多功能和SEO友好的选择,对于希望提高他们的在线存在和提高他们的搜索引擎排名的博客。 Demo在这里 https://contextblog.postmagthemes.com"
+
+#. Theme Name of the theme
+#: style.css footer.php:132 inc/customizer/document/document.php:47
+#, gp-priority: high
+msgid "Context Blog"
+msgstr "Context Blog"
+
+#: inc/customizer/global/common-social-section.php:69
+msgid "Example: https://facebook.com"
+msgstr "如: https://facebook.com"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:150 template-parts/content-single.php:54
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "编辑<span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-page.php:128 template-parts/content-single.php:82
+msgid "Author"
+msgstr "作者"
+
+#: template-parts/content-page.php:116 template-parts/content-single.php:39
+msgid "Pages :"
+msgstr "页码："
+
+#: template-parts/content-none.php:43
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，未找到与您的搜索条件匹配的内容。请尝试使用其他关键字。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: template-parts/content-core.php:151 template-parts/content-core.php:155
+msgid "Read out all"
+msgstr "读出全部"
+
+#: single.php:65
+msgid "Previous post"
+msgstr "上篇文章"
+
+#: single.php:64
+msgid "Next post"
+msgstr "下篇文章"
+
+#: main-body/gallery-slider-section.php:73 template-parts/content-core.php:131
+#: template-parts/content-single.php:24
+msgid "In"
+msgstr "在"
+
+#: inc/theme-info/class-about.php:592
+msgid "Upgrade to Pro"
+msgstr "升级至 Pro 版"
+
+#: inc/theme-info/class-about.php:558
+msgid "Deactivate"
+msgstr "停用"
+
+#: inc/theme-info/class-about.php:554
+msgid "Activate"
+msgstr "启用"
+
+#: inc/theme-info/class-about.php:550
+msgid "Install"
+msgstr "安装"
+
+#: inc/theme-info/class-about.php:164
+msgid "Get started with %s"
+msgstr "开始使用 %s"
+
+#: inc/theme-info/class-about.php:164
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr "欢迎！感谢您选择%1$s！为了充分利用我们提供的最佳主题，请确保您访问我们的%2$s欢迎页面%3$s。"
+
+#: inc/theme-info/about.php:96
+msgid "Theme Documentation"
+msgstr "主题文档"
+
+#: inc/theme-info/about.php:88 inc/theme-info/about.php:90
+msgid "Contact Support"
+msgstr "获取支持"
+
+#: inc/theme-info/about.php:76
+msgid "Please install the PostmagThemes Demo Import plugin to import the demo content. After activation go to Appearance >> Import Demo Data and import it."
+msgstr "请安装PostmagThemes Demo Import插件来导入演示内容。激活后进入外观>>导入演示数据并导入。"
+
+#: inc/theme-info/about.php:75
+msgid "PostmagThemes Demo Import"
+msgstr "PostmagThemes演示导入"
+
+#: inc/theme-info/about.php:62
+msgid "Check recommended actions"
+msgstr "检查建议的操作"
+
+#: inc/theme-info/about.php:61
+msgid "We recommend few steps to take so that you can get a complete site like shown in the demo."
+msgstr "我们建议采取几个步骤，以便您能得到一个像演示中所示的完整的网站。"
+
+#: inc/theme-info/about.php:53
+msgid "Find step-by-step instructions to set up the theme easily."
+msgstr "找到分步说明，轻松设置主题。"
+
+#: inc/theme-info/about.php:47
+msgid "Support"
+msgstr "支持"
+
+#: inc/theme-info/about.php:46
+msgid "Recommended Actions"
+msgstr "推荐操作"
+
+#: inc/theme-info/about.php:45
+msgid "Getting Started"
+msgstr "入门"
+
+#: inc/theme-info/about.php:33 inc/theme-info/about.php:54
+#: inc/theme-info/about.php:98
+msgid "View documentation"
+msgstr "查看文档"
+
+#: inc/theme-info/about.php:29
+msgid "View Demo Premium"
+msgstr "查看演示高级版"
+
+#: inc/theme-info/about.php:25
+msgid "View Demo"
+msgstr "查看演示"
+
+#: footer.php:130 inc/theme-info/about.php:21
+msgid "Theme Details"
+msgstr "主题详情"
+
+#. translators: 1: theme name
+#: inc/theme-info/about.php:16
+msgid "We hope this page will help you to setup %1$s with few clicks. We believe you will find it easy to use and perfect for your website development."
+msgstr "我们希望这个页面能帮助您通过几次点击来设置%1$s。我们相信您会发现它很容易使用，并且非常适合您的网站发展。"
+
+#. translators: theme version
+#: inc/theme-info/about.php:13
+msgid "Welcome to %s - "
+msgstr "欢迎来到 %s- "
+
+#: inc/theme-info/about.php:9 inc/theme-info/about.php:10
+msgid "Context blog setup"
+msgstr "Context Blog 设置"
+
+#: inc/template-tags.php:58
+msgid "%"
+msgstr "%"
+
+#: inc/template-tags.php:58
+msgid "1"
+msgstr "1"
+
+#: inc/template-tags.php:58
+msgid "0"
+msgstr "0"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:40
+msgctxt "post author"
+msgid "by %s"
+msgstr "由%s"
+
+#. translators: %s: search query.
+#: inc/template-functions.php:143
+msgid "Search Result For: %s"
+msgstr "搜索结果：%s"
+
+#: inc/repeater/class-control-repeater.php:448
+#: inc/repeater/class-control-repeater.php:450
+msgid "Change File"
+msgstr "更改文档"
+
+#: inc/repeater/class-control-repeater.php:448
+#: inc/repeater/class-control-repeater.php:452
+msgid "Add File"
+msgstr "添加文档"
+
+#: inc/repeater/class-control-repeater.php:437
+#: inc/repeater/class-control-repeater.php:442
+msgid "No File Selected"
+msgstr "未选择文件"
+
+#: inc/repeater/class-control-repeater.php:412
+#: inc/repeater/class-control-repeater.php:414
+msgid "Change Image"
+msgstr "更换图片"
+
+#: inc/repeater/class-control-repeater.php:412
+#: inc/repeater/class-control-repeater.php:416
+msgid "Add Image"
+msgstr "添加图片"
+
+#: inc/repeater/class-control-repeater.php:411
+#: inc/repeater/class-control-repeater.php:476
+msgid "Remove"
+msgstr "移除"
+
+#: inc/repeater/class-control-repeater.php:401
+#: inc/repeater/class-control-repeater.php:406
+msgid "No Image Selected"
+msgstr "未选择图片"
+
+#: inc/repeater/class-control-repeater.php:376
+msgid "Hex Value"
+msgstr "十六进制值"
+
+#. translators: %s: Limit Number.
+#: inc/repeater/class-control-repeater.php:242
+msgid "Limit: %s rows"
+msgstr "限制：%s行"
+
+#. translators: %s: Add new Text.
+#: inc/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr "添加新 %s"
+
+#: inc/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr "行"
+
+#: inc/related-post.php:27
+msgid "Related Posts"
+msgstr "相关文章"
+
+#: inc/dropdown-category.php:36
+msgid "Among all the categories"
+msgstr "在所有分类中"
+
+#: inc/customizer/sidebar/stay-connected.php:7
+msgid "Social links"
+msgstr "社交链接"
+
+#: inc/customizer/sidebar/sidebar-layout-settings.php:60
+msgid "Enable this section on the single post and page detail"
+msgstr "在单个帖子和页面详情上启用本节"
+
+#: inc/customizer/sidebar/sidebar-layout-settings.php:9
+msgid "Select the below option to show this section in the desired location"
+msgstr "选择以下选项以在所需位置显示此部分"
+
+#: inc/customizer/sidebar/sidebar-layout-settings.php:7
+msgid "Sidebar layout settings"
+msgstr "侧边栏布局设置"
+
+#: inc/customizer/sidebar/quote.php:78
+msgid "Write Quote"
+msgstr "编写引语…"
+
+#: inc/customizer/sidebar/quote.php:7
+msgid "Quote section"
+msgstr "引用部分"
+
+#: inc/customizer/sidebar/full-width.php:7
+msgid "Full-width slider section"
+msgstr "全宽度滑块部分"
+
+#: inc/customizer/sidebar/about-author-section.php:96
+msgid "Author image"
+msgstr "作者图片"
+
+#: inc/customizer/sidebar/about-author-section.php:77
+msgid "Author description"
+msgstr "作者描述"
+
+#: inc/customizer/sidebar/about-author-section.php:43
+#: inc/customizer/sidebar/full-width.php:45 inc/customizer/sidebar/quote.php:43
+#: inc/customizer/sidebar/stay-connected.php:43
+msgid "Enable this section at sidebar"
+msgstr "启用侧边栏的第二块区段"
+
+#: inc/customizer/sidebar/about-author-section.php:7
+msgid "About author section"
+msgstr "关于作者部分"
+
+#: inc/customizer/panel/singlepage-settings-panel.php:18
+msgid "Page settings"
+msgstr "页面设置"
+
+#: inc/customizer/panel/sidebar-settings-panel.php:21
+msgid "Sidebar settings"
+msgstr "侧边栏设置"
+
+#: inc/customizer/panel/main-body-settings-panel.php:21
+msgid "Main body settings"
+msgstr "主体设置"
+
+#: inc/customizer/panel/header-settings-panel.php:17
+msgid "Header settings"
+msgstr "页眉设置"
+
+#: inc/customizer/panel/header-settings-panel.php:4
+msgid "Header Image or Media"
+msgstr "页眉图片或媒体"
+
+#: inc/customizer/panel/global-settings-panel.php:21
+msgid "Global settings"
+msgstr "全局设置。"
+
+#: inc/customizer/panel/general-layout-panel.php:18
+msgid "General layout settings"
+msgstr "常规布局设置"
+
+#: inc/customizer/panel/forground-textcolor-panel.php:8
+msgid "Colors settings"
+msgstr "颜色设置"
+
+#: inc/customizer/panel/footer-settings-panel.php:11
+msgid "Footer settings"
+msgstr "页脚设置"
+
+#: inc/customizer/panel/document-panel.php:11
+msgid "Documents"
+msgstr "文档"
+
+#: inc/customizer/panel/blog-post-settings-panel.php:18
+msgid "Blog post settings"
+msgstr "博客文章设置"
+
+#: inc/customizer/panel/background-color-panel.php:9
+msgid "Background color settings"
+msgstr "背景颜色设置"
+
+#: inc/customizer/page/single-blog.php:56
+msgid "Related post settings"
+msgstr "相关文章设置"
+
+#: inc/customizer/page/single-blog.php:7
+msgid "Single page"
+msgstr "页面详情页"
+
+#: inc/customizer/main-body/main-blog-section-customizer.php:84
+msgid "Masonry"
+msgstr "瀑布流"
+
+#: inc/customizer/main-body/main-blog-section-customizer.php:83
+msgid "Double column with feature"
+msgstr "有特色的双列"
+
+#: inc/customizer/main-body/main-blog-section-customizer.php:82
+msgid "Single column"
+msgstr "单列"
+
+#: inc/customizer/main-body/main-blog-section-customizer.php:78
+msgid "This setting also change archive and search page layout type."
+msgstr "此设置还会更改档案和搜索页面布局类型。"
+
+#: inc/customizer/main-body/main-blog-section-customizer.php:77
+msgid "Blog Post section layout types"
+msgstr "博客文章部分的布局类型"
+
+#: inc/customizer/main-body/main-blog-section-customizer.php:43
+msgid "Enable this section"
+msgstr "启用此部分"
+
+#: inc/customizer/main-body/main-blog-section-customizer.php:7
+msgid "Blog post section"
+msgstr "博客帖子部分"
+
+#: inc/customizer/main-body/introduction-customizer.php:77
+msgid "Select your page for this section"
+msgstr "选择本节的页面"
+
+#: inc/customizer/main-body/introduction-customizer.php:7
+msgid "Introduction section"
+msgstr "介绍视频"
+
+#: inc/customizer/main-body/gallery-slider-customizer.php:7
+msgid "Gallery slider section"
+msgstr "画廊滑动部分"
+
+#: inc/customizer/main-body/card-slider-customizer.php:160
+#: inc/customizer/main-body/full-screen-slider-customizer.php:161
+#: inc/customizer/main-body/gallery-slider-customizer.php:160
+#: inc/customizer/main-body/introduction-customizer.php:97
+#: inc/customizer/main-body/main-blog-section-customizer.php:102
+#: inc/customizer/page/single-blog.php:84
+msgid "Excerpt Length determines the no of words in short description."
+msgstr "摘要长度决定了简短描述的字数。"
+
+#: inc/customizer/main-body/card-slider-customizer.php:159
+#: inc/customizer/main-body/full-screen-slider-customizer.php:160
+#: inc/customizer/main-body/gallery-slider-customizer.php:159
+#: inc/customizer/main-body/introduction-customizer.php:96
+#: inc/customizer/main-body/main-blog-section-customizer.php:101
+#: inc/customizer/page/single-blog.php:83
+msgid "Excerpt Length"
+msgstr "摘要长度"
+
+#: inc/customizer/main-body/full-screen-slider-customizer.php:7
+msgid "Full-screen slider section"
+msgstr "全屏滑动部分"
+
+#: inc/customizer/main-body/card-slider-customizer.php:211
+#: inc/customizer/main-body/full-screen-slider-customizer.php:201
+#: inc/customizer/main-body/gallery-slider-customizer.php:200
+#: inc/customizer/main-body/main-blog-section-customizer.php:142
+msgid "Show read more"
+msgstr "查看更多"
+
+#: inc/customizer/main-body/card-slider-customizer.php:7
+msgid "Card slider section"
+msgstr "卡片滑动部分"
+
+#: inc/customizer/layout/general-layout.php:68
+msgid "Default 100, Minimum 50, Maximum 100"
+msgstr "默认值 100, 最低值 50, 最高值 100"
+
+#: inc/customizer/layout/general-layout.php:61
+msgid "Detail page width"
+msgstr "详情页宽度"
+
+#: inc/customizer/layout/general-layout.php:45
+msgid "This number will change the width of detail page."
+msgstr "这个数字会改变详细页面的宽度。"
+
+#: inc/customizer/layout/general-layout.php:43
+msgid "Detail page layout"
+msgstr "详细页面布局"
+
+#: inc/customizer/layout/general-layout.php:33
+msgid "Default 67, Minimum 50, Maximum 80"
+msgstr "默认 67, 最低 50, 最高 80"
+
+#: inc/customizer/layout/general-layout.php:26
+msgid "Main blog width"
+msgstr "主博客宽度"
+
+#: inc/customizer/layout/general-layout.php:9
+msgid "This number will change the width between Blog post section and sidebar.  This setting will also effect on static homepage, archive, search, and detail pages."
+msgstr "这个数字将改变博客文章部分和侧面栏之间的宽度。  此设置也适用于静态主页、档案、搜索和详情页面。"
+
+#: inc/customizer/layout/general-layout.php:7
+msgid "Blog post layout"
+msgstr "博客文章布局"
+
+#: inc/customizer/header/header-customizer.php:280
+msgid "Show site title and tagline at the center of header image"
+msgstr "在标题图像中间显示网站标题和标题行"
+
+#: inc/customizer/header/header-customizer.php:263
+msgid "Show site title and tagline on top of the header"
+msgstr "在标题顶部显示网站标题和标题行"
+
+#: inc/customizer/header/header-customizer.php:248
+msgid "Top site title and tagline"
+msgstr "顶部网站标题和标语"
+
+#: inc/customizer/header/header-customizer.php:237
+msgid "Show logo at the center of the header image"
+msgstr "在标题图像中间显示标志"
+
+#: inc/customizer/header/header-customizer.php:219
+#: inc/customizer/main-body/card-slider-customizer.php:60
+#: inc/customizer/main-body/full-screen-slider-customizer.php:60
+#: inc/customizer/main-body/gallery-slider-customizer.php:60
+#: inc/customizer/main-body/introduction-customizer.php:60
+#: inc/customizer/sidebar/sidebar-layout-settings.php:42
+msgid "Enable this section on the blog page"
+msgstr "在博客页面上启用此部分"
+
+#: inc/customizer/header/header-customizer.php:183
+#: inc/customizer/main-body/gallery-slider-customizer.php:278
+#: inc/customizer/main-body/main-blog-section-customizer.php:210
+msgid "URL Link"
+msgstr "URL链接"
+
+#: inc/customizer/header/header-customizer.php:160
+#: inc/customizer/main-body/gallery-slider-customizer.php:253
+#: inc/customizer/main-body/main-blog-section-customizer.php:187
+msgid "Recommended size is 728px by 90px"
+msgstr "推荐的图片大小为728px x 90px。"
+
+#: inc/customizer/header/header-customizer.php:159
+#: inc/customizer/main-body/gallery-slider-customizer.php:252
+#: inc/customizer/main-body/main-blog-section-customizer.php:186
+msgid "Advertisement image"
+msgstr "广告图像"
+
+#: inc/customizer/header/header-customizer.php:141
+#: inc/customizer/header/header-customizer.php:201
+#: inc/customizer/main-body/card-slider-customizer.php:43
+#: inc/customizer/main-body/full-screen-slider-customizer.php:43
+#: inc/customizer/main-body/gallery-slider-customizer.php:43
+#: inc/customizer/main-body/gallery-slider-customizer.php:235
+#: inc/customizer/main-body/introduction-customizer.php:43
+#: inc/customizer/main-body/main-blog-section-customizer.php:168
+#: inc/customizer/sidebar/sidebar-layout-settings.php:25
+msgid "Enable this section on the homepage"
+msgstr "在主页上启用此部分"
+
+#: inc/customizer/header/header-customizer.php:125
+#: inc/customizer/main-body/gallery-slider-customizer.php:217
+#: inc/customizer/main-body/main-blog-section-customizer.php:151
+msgid "Advertisement settings"
+msgstr "广告设置"
+
+#: inc/customizer/header/header-customizer.php:80
+msgid "Top social links"
+msgstr "顶级社交链接"
+
+#: inc/customizer/header/header-customizer.php:50
+msgid "Content of this side menu is configured via appearance >> menu. Here under menu settings select display location as Side panel menu. It supports level 1 menu only."
+msgstr "此侧菜单的内容通过“外观”菜单进行配置。 在菜单设置下,选择显示位置作为侧面面板菜单。 它只支持一级菜单。"
+
+#: inc/customizer/header/header-customizer.php:49
+msgid "Show side menu"
+msgstr "显示侧面菜单"
+
+#: inc/customizer/header/header-customizer.php:33
+msgid "Side menu"
+msgstr "侧面菜单"
+
+#: inc/customizer/header/header-customizer.php:22
+msgid "Show logo on the left side of the top header"
+msgstr "显示顶部标题左侧的标志"
+
+#: inc/customizer/header/header-customizer.php:7
+msgid "Top logo"
+msgstr "顶部标志"
+
+#: inc/customizer/global/other-section.php:22
+msgid "A modal is a dialog box displayed on the screen when clicking the Read More button. It provides a user-friendly way of displaying detailed information about the post without navigating away from the current page."
+msgstr "模式是按下阅读更多按钮时在屏幕上显示的对话框。 它提供了一个用户友好的方式，显示文章的详细信息，而不需要离开当前页面。"
+
+#: inc/customizer/global/other-section.php:21
+msgid "Show modal popup"
+msgstr "显示模式弹出窗口"
+
+#: inc/customizer/global/other-section.php:6
+msgid "Modal popup for read more "
+msgstr "用于阅读更多信息的模特式弹出窗口 "
+
+#: inc/customizer/global/common-social-section.php:119
+msgid "Example: fab fa-facebook-f"
+msgstr "如: fab fa-facebook-f"
+
+#: inc/customizer/global/common-social-section.php:74
+#: inc/customizer/global/common-social-section.php:129
+msgid "social"
+msgstr "社交"
+
+#: inc/customizer/global/common-social-section.php:124
+msgid "Example: http://facebook.com"
+msgstr "例如：http://facebook.com"
+
+#: inc/customizer/global/common-social-section.php:68
+#: inc/customizer/global/common-social-section.php:123
+msgid "Link"
+msgstr "链接"
+
+#: inc/customizer/global/common-social-section.php:64
+msgid "Example: fab fa-facebook"
+msgstr "例子: fab fa-facebook"
+
+#: inc/customizer/global/common-social-section.php:63
+#: inc/customizer/global/common-social-section.php:118
+msgid "Font Awesome Icon"
+msgstr "Font Awesome 图标"
+
+#: inc/customizer/global/common-social-section.php:59
+#: inc/customizer/global/common-social-section.php:114
+msgid "Social Links"
+msgstr "社交链接"
+
+#: inc/customizer/global/common-social-section.php:20
+msgid "Author social link"
+msgstr "作者社会链接"
+
+#: inc/customizer/global/common-social-section.php:6
+msgid "Page social links"
+msgstr "页面社交链接"
+
+#: inc/customizer/footer/footer-second-post.php:6
+msgid "Second post section"
+msgstr "第二个文章部分"
+
+#: inc/customizer/footer/footer-memo.php:97
+#: inc/customizer/header/header-customizer.php:116
+#: inc/customizer/sidebar/about-author-section.php:120
+msgid "Show social links"
+msgstr "显示链接"
+
+#: inc/customizer/footer/footer-memo.php:77
+#: inc/customizer/sidebar/about-author-section.php:153
+msgid "Read more Url"
+msgstr "阅读更多 URL"
+
+#: inc/customizer/footer/footer-memo.php:59
+#: inc/customizer/sidebar/about-author-section.php:136
+msgid "Text for read more button"
+msgstr "阅读更多按钮的文字"
+
+#: inc/customizer/footer/footer-memo.php:6
+msgid "Memo section"
+msgstr "备忘录部分"
+
+#: inc/customizer/footer/footer-logo.php:22
+msgid "Show logo on the left side of the footer"
+msgstr "显示脚印左侧的标志"
+
+#: inc/customizer/footer/footer-logo.php:6
+msgid "Footer logo"
+msgstr "页脚Logo"
+
+#. translators: %s: Label
+#: inc/customizer/footer/footer-first-post.php:137
+#: inc/customizer/footer/footer-second-post.php:154
+#: inc/customizer/main-body/card-slider-customizer.php:191
+#: inc/customizer/main-body/full-screen-slider-customizer.php:182
+#: inc/customizer/main-body/gallery-slider-customizer.php:181
+#: inc/customizer/main-body/main-blog-section-customizer.php:123
+#: inc/customizer/page/single-blog.php:28
+#: inc/customizer/sidebar/full-width.php:129
+msgid "Show %s"
+msgstr "显示%s"
+
+#: inc/customizer/footer/footer-first-post.php:110
+#: inc/customizer/footer/footer-second-post.php:123
+#: inc/customizer/main-body/card-slider-customizer.php:141
+#: inc/customizer/main-body/full-screen-slider-customizer.php:142
+#: inc/customizer/main-body/gallery-slider-customizer.php:141
+#: inc/customizer/sidebar/full-width.php:108
+msgid "Maximum number of posts to show"
+msgstr "要显示的最大文章数"
+
+#: inc/customizer/footer/footer-first-post.php:93
+#: inc/customizer/footer/footer-second-post.php:106
+#: inc/customizer/main-body/card-slider-customizer.php:123
+#: inc/customizer/main-body/full-screen-slider-customizer.php:123
+#: inc/customizer/main-body/gallery-slider-customizer.php:124
+#: inc/customizer/sidebar/full-width.php:89
+msgid "Select category"
+msgstr "选择分类"
+
+#: inc/customizer/footer/footer-first-post.php:75
+#: inc/customizer/footer/footer-second-post.php:85
+#: inc/customizer/main-body/card-slider-customizer.php:102
+#: inc/customizer/main-body/full-screen-slider-customizer.php:102
+#: inc/customizer/main-body/gallery-slider-customizer.php:102
+#: inc/customizer/sidebar/full-width.php:68
+msgid "Random"
+msgstr "随机"
+
+#: inc/customizer/footer/footer-first-post.php:74
+#: inc/customizer/footer/footer-second-post.php:84
+#: inc/customizer/main-body/card-slider-customizer.php:101
+#: inc/customizer/main-body/full-screen-slider-customizer.php:101
+#: inc/customizer/main-body/gallery-slider-customizer.php:101
+#: inc/customizer/sidebar/full-width.php:67
+msgid "Comment count"
+msgstr "评论数"
+
+#: inc/customizer/footer/footer-first-post.php:73
+#: inc/customizer/footer/footer-second-post.php:83
+#: inc/customizer/main-body/card-slider-customizer.php:100
+#: inc/customizer/main-body/full-screen-slider-customizer.php:100
+#: inc/customizer/main-body/gallery-slider-customizer.php:100
+#: inc/customizer/sidebar/full-width.php:66
+msgid "Recent publish date"
+msgstr "最近的出版日期"
+
+#: inc/customizer/footer/footer-first-post.php:69
+#: inc/customizer/footer/footer-second-post.php:79
+#: inc/customizer/main-body/card-slider-customizer.php:96
+#: inc/customizer/main-body/full-screen-slider-customizer.php:96
+#: inc/customizer/main-body/gallery-slider-customizer.php:96
+#: inc/customizer/sidebar/full-width.php:62
+msgid "Select chronological order"
+msgstr "选择按时间顺序排列"
+
+#: inc/customizer/footer/footer-first-post.php:50
+#: inc/customizer/footer/footer-second-post.php:60
+#: inc/customizer/main-body/card-slider-customizer.php:77
+#: inc/customizer/main-body/full-screen-slider-customizer.php:77
+#: inc/customizer/main-body/gallery-slider-customizer.php:77
+#: inc/customizer/main-body/main-blog-section-customizer.php:60
+#: inc/customizer/page/single-blog.php:65
+#: inc/customizer/sidebar/about-author-section.php:59
+#: inc/customizer/sidebar/quote.php:59
+#: inc/customizer/sidebar/stay-connected.php:59
+msgid "Title"
+msgstr "标题"
+
+#: inc/customizer/footer/footer-first-post.php:36
+#: inc/customizer/footer/footer-second-post.php:43
+msgid "Enable this section on the footer"
+msgstr "在脚下启用此部分"
+
+#: inc/customizer/footer/footer-first-post.php:6
+msgid "First post section"
+msgstr "第一篇文章"
+
+#: inc/customizer/document/document.php:125
+msgid "Post Credentials"
+msgstr "邮件凭证"
+
+#: inc/customizer/document/document.php:112
+msgid "Setup section"
+msgstr "设置部分"
+
+#: inc/customizer/document/document.php:99
+msgid "Sidebar appearance"
+msgstr "侧面栏外观"
+
+#: inc/customizer/document/document.php:86
+msgid "Section appearance"
+msgstr "部分外观"
+
+#: inc/customizer/document/document.php:60
+msgid "Text color"
+msgstr "文本颜色"
+
+#: inc/customizer/document/document.php:46
+msgid "About"
+msgstr "关于"
+
+#: inc/customizer/document/document.php:34
+msgid "Specific"
+msgstr "特定"
+
+#: inc/customizer/document/document.php:21
+msgid "Generic"
+msgstr "通用"
+
+#: inc/customizer/document/document.php:20
+#: inc/customizer/document/document.php:33
+#: inc/customizer/document/document.php:59
+#: inc/customizer/document/document.php:72
+#: inc/customizer/document/document.php:85
+#: inc/customizer/document/document.php:98
+#: inc/customizer/document/document.php:111
+#: inc/customizer/document/document.php:124
+msgid "View"
+msgstr "查看"
+
+#: inc/customizer/document/document.php:9 inc/theme-info/about.php:37
+msgid "Buy Premium version"
+msgstr "购买高级版"
+
+#: inc/customizer/document/document.php:8
+msgid "Go to Pro"
+msgstr "购买专业版"
+
+#: inc/customizer/color/forground-text-color.php:72
+msgid "Note: Header text color applies for both site title and tag line"
+msgstr "注意:标题文本颜色适用于网站标题和标签行"
+
+#: inc/customizer/color/forground-text-color.php:71
+msgid "Header text color on top of the header"
+msgstr "标题顶部的标题文字颜色"
+
+#: inc/customizer/color/forground-text-color.php:46
+msgid "Opacity is the degree to which overlaying color is shown. If you wish to completely remove it then configure value 0 here. Note:- This opacity is used in the case of site title and tagline shown at the center of header image."
+msgstr "透明度是显示重叠颜色的程度。 如果您希望完全删除它, 然后在这里设置值0。 注意:- 这个不透明度用于网站标题和标签行,显示在标题图像的中心。"
+
+#: inc/customizer/color/forground-text-color.php:45
+msgid "Opacity of header text color "
+msgstr "标题文本颜色的透明度 "
+
+#: inc/customizer/color/forground-text-color.php:26
+msgid "Primary theme color"
+msgstr "主题主色"
+
+#: inc/customizer/color/forground-text-color.php:6
+msgid "Colors"
+msgstr "颜色"
+
+#: inc/customizer/color/background-color.php:60
+msgid "Opacity is the degree to which overlaying color is shown. If you wish to completly remove it then configure value 0 here."
+msgstr "透明度是显示重叠颜色的程度。 如果您希望完全删除它, 然后在这里设置值0。"
+
+#: inc/customizer/color/background-color.php:59
+msgid "Opacity of overlaying color"
+msgstr "涂层颜色的透明度"
+
+#: inc/customizer/color/background-color.php:42
+msgid "This feature cover the header image with the color of your choice to enhanced viewing of header image. Note:- This overlaying color does not apply to header video."
+msgstr "此功能以您选择的颜色覆盖标题图像,以便增强标头图像的查看。 注意:- 这种重叠颜色不适用于标题视频。"
+
+#: inc/customizer/color/background-color.php:41
+msgid "Overlaying color over the header image"
+msgstr "覆盖头像图像的颜色"
+
+#: inc/customizer/color/background-color.php:20
+msgid "Main background color"
+msgstr "主要背景颜色"
+
+#: inc/customizer/color/background-color.php:9
+#: inc/customizer/document/document.php:73
+msgid "Background color"
+msgstr "背景颜色"
+
+#: inc/customizer.php:102
+#: inc/customizer/main-body/card-slider-customizer.php:166
+#: inc/customizer/main-body/full-screen-slider-customizer.php:167
+#: inc/customizer/main-body/gallery-slider-customizer.php:166
+#: inc/customizer/main-body/main-blog-section-customizer.php:108
+#: inc/related-post.php:8 main-body/card-slider-section.php:9
+#: main-body/full-screen-slider-section.php:8
+#: main-body/gallery-slider-section.php:9 main-body/main-blog-section.php:18
+msgid "excerpt"
+msgstr "片段"
+
+#: inc/customizer-sanitize.php:100
+msgid "Hide"
+msgstr "隐藏"
+
+#: inc/customizer-sanitize.php:99
+msgid "Show"
+msgstr "每页显示"
+
+#: inc/custom-header.php:40
+msgid "Default Header Image"
+msgstr "默认头部图像"
+
+#: inc/breadcrumbs.php:808
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/breadcrumbs.php:779 inc/breadcrumbs.php:1237
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumbs.php:778 inc/breadcrumbs.php:848 inc/breadcrumbs.php:1232
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumbs.php:777 inc/breadcrumbs.php:807 inc/breadcrumbs.php:847
+#: inc/breadcrumbs.php:875 inc/breadcrumbs.php:1227
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumbs.php:760
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumbs.php:742
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumbs.php:724
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:250
+msgid "Week %s"
+msgstr "%s周"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:248
+msgid "Minute %s"
+msgstr "%s分钟"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:246
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: inc/breadcrumbs.php:244
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221;的搜索结果"
+
+#: inc/breadcrumbs.php:242
+msgid "Archives"
+msgstr "归档"
+
+#: inc/breadcrumbs.php:241
+msgid "404 Not Found"
+msgstr "404 未发现页面"
+
+#: inc/breadcrumbs.php:240
+msgid "Home"
+msgstr "首页"
+
+#: inc/breadcrumbs.php:239
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "面包屑"
+
+#: inc/breadcrumbs.php:238
+msgid "Browse:"
+msgstr "浏览："
+
+#: inc/ajax/modal-popup.php:8
+msgid "Close"
+msgstr "关闭"
+
+#: inc/ajax/modal-popup.php:4
+msgid "Full view"
+msgstr "全视图"
+
+#: header.php:29 header.php:31
+msgid "Skip to content"
+msgstr "跳至内容"
+
+#: functions.php:168
+msgid "Footer area"
+msgstr "页脚区域"
+
+#: functions.php:156
+msgid "Body block section bar area"
+msgstr "主体区块部分条形区"
+
+#: functions.php:147 functions.php:158 functions.php:170
+msgid "Add widgets here."
+msgstr "在此处添加小工具。"
+
+#: functions.php:145
+msgid "Sidebar area"
+msgstr "侧边栏区域"
+
+#: functions.php:61
+msgid "Sidepanel menu"
+msgstr "侧边栏菜单"
+
+#: functions.php:60
+msgid "Primary"
+msgstr "主要"
+
+#: footer.php:126
+msgid "Proudly powered by WordPress"
+msgstr "自豪地采用 WordPress"
+
+#: footer.php:50 footer.php:84 inc/customizer.php:100
+#: inc/customizer/footer/footer-first-post.php:115
+#: inc/customizer/footer/footer-second-post.php:129
+#: inc/customizer/footer/footer-second-post.php:131
+#: inc/customizer/main-body/card-slider-customizer.php:166
+#: inc/customizer/main-body/full-screen-slider-customizer.php:167
+#: inc/customizer/main-body/gallery-slider-customizer.php:166
+#: inc/customizer/main-body/main-blog-section-customizer.php:108
+#: inc/customizer/page/single-blog.php:13
+#: inc/customizer/sidebar/full-width.php:114 inc/related-post.php:7
+#: main-body/card-slider-section.php:8
+#: main-body/full-screen-slider-section.php:7
+#: main-body/gallery-slider-section.php:8 main-body/main-blog-section.php:17
+#: sidebar/full-width.php:8 template-parts/content-page.php:13
+#: template-parts/content-single.php:20
+msgid "comment"
+msgstr "评论"
+
+#: footer.php:49 footer.php:83 inc/customizer.php:99
+#: inc/customizer/footer/footer-first-post.php:115
+#: inc/customizer/footer/footer-first-post.php:117
+#: inc/customizer/footer/footer-second-post.php:129
+#: inc/customizer/main-body/card-slider-customizer.php:166
+#: inc/customizer/main-body/full-screen-slider-customizer.php:167
+#: inc/customizer/main-body/gallery-slider-customizer.php:166
+#: inc/customizer/main-body/main-blog-section-customizer.php:108
+#: inc/customizer/page/single-blog.php:13
+#: inc/customizer/sidebar/full-width.php:114 inc/related-post.php:6
+#: main-body/card-slider-section.php:7
+#: main-body/full-screen-slider-section.php:6
+#: main-body/gallery-slider-section.php:7 main-body/main-blog-section.php:16
+#: sidebar/full-width.php:7 template-parts/content-page.php:12
+#: template-parts/content-single.php:19
+msgid "date"
+msgstr "日期"
+
+#: footer.php:48 footer.php:82 inc/customizer.php:98
+#: inc/customizer/footer/footer-first-post.php:115
+#: inc/customizer/footer/footer-first-post.php:117
+#: inc/customizer/footer/footer-second-post.php:129
+#: inc/customizer/footer/footer-second-post.php:131
+#: inc/customizer/main-body/card-slider-customizer.php:166
+#: inc/customizer/main-body/full-screen-slider-customizer.php:167
+#: inc/customizer/main-body/gallery-slider-customizer.php:166
+#: inc/customizer/main-body/main-blog-section-customizer.php:108
+#: inc/customizer/page/single-blog.php:13
+#: inc/customizer/sidebar/full-width.php:114 inc/related-post.php:5
+#: main-body/card-slider-section.php:6
+#: main-body/full-screen-slider-section.php:5
+#: main-body/gallery-slider-section.php:6 main-body/main-blog-section.php:15
+#: sidebar/full-width.php:6 template-parts/content-page.php:11
+#: template-parts/content-single.php:18
+msgid "meta"
+msgstr "功能"
+
+#: footer.php:47 footer.php:81 inc/customizer.php:101
+#: inc/customizer/footer/footer-first-post.php:115
+#: inc/customizer/footer/footer-second-post.php:129
+#: inc/customizer/main-body/card-slider-customizer.php:166
+#: inc/customizer/main-body/card-slider-customizer.php:168
+#: inc/customizer/main-body/full-screen-slider-customizer.php:167
+#: inc/customizer/main-body/gallery-slider-customizer.php:166
+#: inc/customizer/main-body/main-blog-section-customizer.php:108
+#: inc/customizer/sidebar/full-width.php:114 inc/related-post.php:4
+#: main-body/card-slider-section.php:5
+#: main-body/full-screen-slider-section.php:4
+#: main-body/gallery-slider-section.php:5 main-body/main-blog-section.php:14
+#: sidebar/full-width.php:5
+msgid "category"
+msgstr "分类"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s 条评论"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "1 comment"
+msgstr "1 评论"
+
+#: archive.php:100 main-body/main-blog-section.php:101 search.php:97
+msgid "Next"
+msgstr "下一页"
+
+#: archive.php:99 main-body/main-blog-section.php:100 search.php:96
+msgid "Previous"
+msgstr "上一页"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "在此位置似乎没有找到任何内容。或许您可以尝试点击下面的某个链接或进行搜索？"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "糟糕！找不到该页面。"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://postmagthemes.com/"
+msgstr "http://postmagthemes.com"
+
+#. Author of the theme
+#: style.css footer.php:128
+#, gp-priority: low
+msgid "postmagthemes.com"
+msgstr "postmagthemes.com"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.postmagthemes.com/downloads/context-blog-free-wordpress-theme/"
+msgstr "https://www.postmagthemes.com/downloads/context-blog-free-wordpress-theme/"
