@@ -14,7 +14,7 @@ services:
     image: mysql:8.0
     environment:
       MYSQL_DATABASE: wordpress
-      MYSQL_USER: root
+      MYSQL_USER: haitun
       MYSQL_PASSWORD: 1234
       MYSQL_ROOT_PASSWORD: 1234
     ports:
@@ -31,7 +31,7 @@ services:
       - "8001:80"
     environment:
       - PMA_HOST=mysql
-      - PMA_USER=root
+      - PMA_USER=haitun
       - PMA_PASSWORD=1234
     networks:
       - mynetwork
