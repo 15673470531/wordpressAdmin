@@ -32,8 +32,8 @@ services:
     environment:
       - PMA_HOST=47.106.115.51
 #      - PMA_HOST=wordpressadmin_mynetwork
-#      - PMA_USER=haitun
-#      - PMA_PASSWORD=cFzMv0Ha^&EIz&g6Va
+      - PMA_USER=haitun
+      - PMA_PASSWORD=cFzMv0Ha^&EIz&g6Va
     networks:
       - mynetwork
     depends_on:
