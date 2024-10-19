@@ -31,7 +31,7 @@ define( 'DB_USER', 'haitun' );
 define( 'DB_PASSWORD', 'cFzMv0Ha^&EIz&g6Va' );
 
 /** Database hostname */
-define( 'DB_HOST', 'wordpressadmin_mynetwork' );
+define( 'DB_HOST', '47.106.115.51' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
