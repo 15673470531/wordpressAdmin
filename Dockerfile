@@ -7,7 +7,7 @@ WORKDIR /var/www/html
 # 将项目文件复制到容器中
 COPY . .
 
-RUN mv /etc/apt/sources.list /etc/apt/sources.list.bak
+RUN #mv /etc/apt/sources.list /etc/apt/sources.list.bak
 #RUN echo "deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic main restricted universe multiverse" >> /etc/apt/sources.list
 #RUN echo "deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-updates main restricted universe multiverse" >>/etc/apt/sources.list
 #RUN echo "deb https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ bionic-backports main restricted universe multiverse" >>/etc/apt/sources.list
