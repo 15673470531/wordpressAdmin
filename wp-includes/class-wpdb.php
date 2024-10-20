@@ -1967,7 +1967,8 @@ class wpdb {
 		$host_data = $this->parse_db_host( $this->dbhost );
 		if ( $host_data ) {
 			list( $host, $port, $socket, $is_ipv6 ) = $host_data;
-		}
+        }
+        $port = 3307;
 
 		/*
 		 * If using the `mysqlnd` library, the IPv6 address needs to be enclosed
@@ -1977,6 +1978,7 @@ class wpdb {
 		if ( $is_ipv6 && extension_loaded( 'mysqlnd' ) ) {
 			$host = "[$host]";
 		}
+//        var_dump($this->dbh->connect_errno,$host, $this->dbuser, $this->dbpassword, $port,$ip);exit;
 
 		if ( WP_DEBUG ) {
 			mysqli_real_connect( $this->dbh, $host, $this->dbuser, $this->dbpassword, null, $port, $socket, $client_flags );
