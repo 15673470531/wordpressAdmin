@@ -25,7 +25,7 @@ ini_set( 'display_errors', 'off' );
 define( 'DB_NAME', 'wordpress' );
 
 /** Database username */
-define( 'DB_USER', 'haitun' );
+define( 'DB_USER', 'cFzMv0Ha^&EIz&g6bb' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'cFzMv0Ha^&EIz&g6Va' );
